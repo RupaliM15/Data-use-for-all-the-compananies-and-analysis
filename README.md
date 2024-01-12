@@ -1,5 +1,8 @@
 # Stock Market Analysis Using Python
 
+# data please visit the below link:
+https://in.finance.yahoo.com/
+
 The following tasks are to be performed:
 
 • Read the Data from Yahoo finance website directly.
